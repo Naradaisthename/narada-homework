@@ -1,0 +1,27 @@
+.heading {
+	color: black;
+	font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+	padding-left: 130px;
+	font-weight: 500;
+}
+
+p {
+	font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+	padding-left: 100px;
+	font-weight: 300;
+}
+
+img {
+	width: 441px;
+	height: 276px;
+	border: 1.4px ridge #000000;
+	margin-left: 200px;
+}
+
+.homework {
+	width: 708px;
+	height: 1002px;
+	border: 1.4px ridge #000000;
+	margin-left: 100px;
+}
+
