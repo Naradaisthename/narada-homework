@@ -1,14 +1,17 @@
 .heading {
 	color: black;
 	font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
-	padding-left: 130px;
 	font-weight: 500;
+	margin-left: 250px;
+	border: solid 1px;
+	background-color: cornflowerblue;
+	display: inline-block;
 }
 
 p {
 	font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
-	padding-left: 100px;
 	font-weight: 300;
+	background-color: aqua
 }
 
 img {
@@ -18,3 +21,6 @@ img {
 	margin-left: 200px;
 }
 
+.link {
+	color: blue
+}
