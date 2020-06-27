@@ -4,10 +4,10 @@
 	font-weight: 500;
 	margin-left: 250px;
 	border: solid 1px;
-	border-radius: 5px 5px 5px 5px;
+	border-radius: 5px;
 	background-color: chocolate;
 	display: inline-block;
-}
+}	
 
 p {
 	font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
